@@ -1,9 +1,0 @@
-{
-  "name": "lab2-docker-app",
-  "version": "1.0.0",
-  "description": "Sample application for Docker containerization",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  }
-}
